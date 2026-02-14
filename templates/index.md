@@ -7,40 +7,28 @@ permalink: /index.html
 ---
 {% from "macros/hero.njk" import hero %}
 {% set options = {
-  dark: true,
-  titleText: "Welcome to the Open Artifacts 11ty Starter",
-  subtitleText: "This starter template includes everything you need to quickly set up an Open Artifacts project website just like this one using Eleventy (11ty) as the static site generator.",
-  buttonText: "Learn More About This Project",
-  buttonLink: "/project/"
+  dark: false,
+  titleText: "Evolutionary Design Group Manual",
+  subtitleText: "A guide for creating your own group.",
+  buttonText: "Read the Manual",
+  buttonLink: "/cwc/project/about.html"
 } %}
 {{ hero(options) }}
 
 {% section %}
 
-## What Is This?
+## Welcome to the Evolutionary Design Group Manual
 
-This site is a minimal starting point for an **Open Artifacts project**—something made to be shared, remixed, and improved over time. Whether you're documenting a local solution, a creative method, or a community idea, this starter helps you:
+This is an Open Artifacts project with the goal of creating an operating manual of sorts around how to form, run and maintain an Evolutionary Design Group in your community.
 
-- Publish your idea as a clean, fast-loading site
-- Invite others to read it, remix it, and contribute
-- Ensure that your idea can live on even if you step away
+Evolutionary Design Groups are a critical part of a system of change that I have variously called "Cultural Creation," "Evolutonary Design," "Evolving the World," or "Creating a World That Works for All Humanity." The system is described in my book [*Don't Save The World: Help Build a World That Will Save Us All*](https://dontsavetheworld.com) and can be summarized like this:
 
-### What You Can Do With This Project
+- **The Worldview:** Our ancestors designed and built the world we live in, hoping to help humanity survive and thrive far into the future.
+- **The Work:** Those of us that choose to continue the work of our ancestors are **Cultural Creators**. In our hearts, we know that it is our turn to re-think the world gifted to us and to improve it.
+- **The Process:** As Cultural Creators, we engage in a **Creative Practice** that helps us strengthen our **Personal Universe** while improving the world.
+- **The Platform:** We collaborate with other Cultural Creators by creating, contributing to or adapting **Open Artifacts** projects which enable us to develop ideas and solve problems globally.
+- **The Impact:** We devote part of our Creative Practice to adapting and building Open Artifacts in our local community as members of self-directed **Evolutionary Design Groups**.
 
-- 💡 Click on the link in the top banner to learn what an **Open Artifact** is.
-- 🔧 Learn [how to use this starter template](/starter-kit/using-this-starter/) to make a website of your own!
-- ✍️ Add content using simple Markdown files.
-- 💬 Let others contribute to your project by submitting suggestions in GitHub Issues.
-- 🌍 Publish instantly using Netlify or GitHub Pages.
-
-### Who It's For
-
-If you're a **cultural creator**—someone who wants to make the world better by sharing your knowledge, ideas, or designs—this template is for you. You don’t need to know how to code, but if you’re willing to learn a little, this will give you a running start.
-
-### Ready to Try It?
-
-→ Visit the [GitHub repository](https://github.com/jimappleg8/open-artifacts-11ty-starter) or look at the [Starter Kit](/starter-kit/) to find out what you're getting into.
-
-This project is part of the [Evolve the World](https://evolvetheworld.org/) initiative.
+So, Evolutionary Design Groups are how life-sustaining tools, technologies, organizations and other cultural artifacts make their way into our everyday lives. With Evolutionary Design Groups working across the globe, we can affect positive change at a global scale.
 
 {% endsection %}
