@@ -37,11 +37,11 @@ export default {
   // supported. These are simple paragraphs with Markdown links so you can 
   // communicate whatever makes sense for your project.
 
-  homes: "Our [demo website](http://open-artifacts-11ty-starter.netflify.app/) is the place to start. You can also check out the [README on GitHub](https://github.com/jimappleg8/evolutionary-design-groups).",
+  homes: "Our [demo website](http://evolutionary-design-groups.netflify.app/) is the place to start. You can also check out the [README on GitHub](https://github.com/jimappleg8/evolutionary-design-groups).",
 
   collaborativeSpaces: "You can submit issues and pull requests on our [GitHub repository](https://github.com/jimappleg8/evolutionary-design-groups).",
 
-  needsDoingLists: "We maintain a list of tasks that we need help with on the website on our [roadmap page](http://open-artifacts-11ty-starter.netflify.app/project/roadmap/). We also use GitHub Issues to track tasks that need doing. Check out the [Issues tab on GitHub](https://github.com/jimappleg8/evolutionary-design-groups/issues).",
+  needsDoingLists: "We maintain a list of tasks that we need help with on the website on our [roadmap page](http://evolutionary-design-groups.netflify.app/project/roadmap/). We also use GitHub Issues to track tasks that need doing. Check out the [Issues tab on GitHub](https://github.com/jimappleg8/evolutionary-design-groups/issues).",
 
   adaptingTheProject: "You can freely use the starter template to create your own project website. We hope you will contribute back any improvements you make that might help others. If you feel like you need to take the project another direction, feel free to fork our [GitHub repository](https://github.com/jimappleg8/evolutionary-design-groups).",
 
@@ -53,7 +53,7 @@ export default {
   // other formats or sources, like Github Issues.
   needsDoing: {
     sourceType: "json",
-    url: "http://open-artifacts-11ty-starter.netflify.app/oa-roadmap.json"
+    url: "http://evolutionary-design-groups.netflify.app/oa-roadmap.json"
   },
 
   // ========================================================================
